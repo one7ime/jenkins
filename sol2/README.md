@@ -1,10 +1,14 @@
 # jenkins 실습
-gradle 빌드
+webapp 빌드
 
 ## build 이미지
 
 ![빌드이미지](./build.PNG)
 
-## artifactory 이미지
+![빌드war이미지](./build_war.PNG)
 
-![빌드이미지](./arti.PNG)
+## tomcat 이미지
+
+![tomcat이미지](./tomcat.PNG)
+
+![app 화면](./deploy.PNG)

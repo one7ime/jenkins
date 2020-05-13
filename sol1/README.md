@@ -5,10 +5,6 @@ gradle 빌드
 
 ![빌드이미지](./build.PNG)
 
-![빌드war이미지](./build_war.PNG)
+## artifactory 이미지
 
-## tomcat 이미지
-
-![tomcat이미지](./tomcat.PNG)
-
-![app 화면](./deploy.PNG)
+![빌드이미지](./arti.PNG)
